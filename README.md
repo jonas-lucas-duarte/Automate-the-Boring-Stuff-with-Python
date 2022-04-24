@@ -7,7 +7,7 @@ https://automatetheboringstuff.com/
 ## Index
 
 - [Introduction](#Introduction)
-- [Chapter 1 – Python Basics](#Chapter 1 – Python Basics)
+- [Chapter 1 – Python Basics](#Chapter-1-–-Python-Basics)
 - [Chapter 2 – Flow Control](#Chapter 2 – Flow Control)
 - [Chapter 3 – Functions](#Chapter 3 – Functions)
 - [Chapter 4 – Lists](#Chapter 4 – Lists)
